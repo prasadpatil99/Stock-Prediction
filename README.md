@@ -13,7 +13,8 @@ In short LSTM have 10x more Long Term Memory than RNN.*
 *Dataset can be found [here](http://quotes.wsj.com/GOOG/historical-prices/download?MOD_VIEW=page&num_rows=6299.041666666667&range_days=6299.041666666667&startDate=09/06/2000&endDate=12/05/2017)*
 
 ## Reference
-https://stackoverflow.com/questions/45435049
+https://stackoverflow.com/questions/45435049 <br>
+https://www.investopedia.com/terms/e/ema.asp
 
 ## Author
 - Prasad Patil
